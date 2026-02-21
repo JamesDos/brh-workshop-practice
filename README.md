@@ -1,1 +1,1 @@
-add feature 2
+add version 2
